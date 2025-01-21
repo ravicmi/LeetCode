@@ -9,6 +9,7 @@ Leetcode problems
 | [0004-median-of-two-sorted-arrays](https://github.com/ravicmi/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ravicmi/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ravicmi/LeetCode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/ravicmi/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Binary Search
 |  |
 | ------- |
@@ -22,6 +23,7 @@ Leetcode problems
 | ------- |
 | [0011-container-with-most-water](https://github.com/ravicmi/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ravicmi/LeetCode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/ravicmi/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Greedy
 |  |
 | ------- |
@@ -30,4 +32,16 @@ Leetcode problems
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ravicmi/LeetCode/tree/master/0015-3sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ravicmi/LeetCode/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ravicmi/LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ravicmi/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
