@@ -12,6 +12,7 @@ Leetcode problems
 | [0041-first-missing-positive](https://github.com/ravicmi/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ravicmi/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ravicmi/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0149-max-points-on-a-line](https://github.com/ravicmi/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ravicmi/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Binary Search
 |  |
@@ -55,6 +56,7 @@ Leetcode problems
 | ------- |
 | [0041-first-missing-positive](https://github.com/ravicmi/LeetCode/tree/master/0041-first-missing-positive) |
 | [0127-word-ladder](https://github.com/ravicmi/LeetCode/tree/master/0127-word-ladder) |
+| [0149-max-points-on-a-line](https://github.com/ravicmi/LeetCode/tree/master/0149-max-points-on-a-line) |
 ## String
 |  |
 | ------- |
@@ -84,4 +86,12 @@ Leetcode problems
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ravicmi/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Math
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/ravicmi/LeetCode/tree/master/0149-max-points-on-a-line) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/ravicmi/LeetCode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
