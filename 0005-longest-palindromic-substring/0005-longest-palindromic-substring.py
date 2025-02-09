@@ -1,19 +1,25 @@
 class Solution:
-    def is_palindrome(self, s:str) -> bool:
-        if s == s[::-1]:
-            return True
-        else:
-            return False
     def longestPalindrome(self, s: str) -> str:
-        max_pal = 0
-        required_str = ""
-        for i in range(len(s)):
-            for j in range(i, len(s)):
-                if self.is_palindrome(s[i:j+1]):
-                    new_max_pal =  (j-i+1)
-                    if new_max_pal >= max_pal:
-                        max_pal = new_max_pal
-                        required_str = s[i:j+1]
-        return required_str
+        N = len(s)
+        start = 0
+        end = 1
+        def find_longest_palindrome_left_right(l,r):
+            while l>=0 and r<N:
+                if s[l] != s[r]:
+                    break
+                l -=1
+                r +=1
+            return l+1,r
+        for i in range(N):
+            l,r = find_longest_palindrome_left_right(i,i)
+            if r-l > end-start:
+                start, end = l, r
+            l,r = find_longest_palindrome_left_right(i,i+1)
+            if r-l > end-start:
+                start, end = l, r
+
+        return s[start:end]
+
+        
 
         
