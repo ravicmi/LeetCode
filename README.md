@@ -26,6 +26,7 @@ Leetcode problems
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ravicmi/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ravicmi/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ravicmi/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/ravicmi/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -40,6 +41,7 @@ Leetcode problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ravicmi/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/ravicmi/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ravicmi/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Stack
@@ -62,6 +64,7 @@ Leetcode problems
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ravicmi/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0127-word-ladder](https://github.com/ravicmi/LeetCode/tree/master/0127-word-ladder) |
 ## Breadth-First Search
 |  |
