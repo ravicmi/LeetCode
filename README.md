@@ -47,6 +47,7 @@ Leetcode problems
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ravicmi/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ravicmi/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ravicmi/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Monotonic Stack
@@ -65,6 +66,7 @@ Leetcode problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ravicmi/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/ravicmi/LeetCode/tree/master/0020-valid-parentheses) |
 | [0127-word-ladder](https://github.com/ravicmi/LeetCode/tree/master/0127-word-ladder) |
 ## Breadth-First Search
 |  |
