@@ -98,6 +98,7 @@ Leetcode problems
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ravicmi/LeetCode/tree/master/0007-reverse-integer) |
 | [0149-max-points-on-a-line](https://github.com/ravicmi/LeetCode/tree/master/0149-max-points-on-a-line) |
 ## Geometry
 |  |
