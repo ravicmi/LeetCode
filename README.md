@@ -66,6 +66,7 @@ Leetcode problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ravicmi/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/ravicmi/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/ravicmi/LeetCode/tree/master/0020-valid-parentheses) |
 | [0127-word-ladder](https://github.com/ravicmi/LeetCode/tree/master/0127-word-ladder) |
 ## Breadth-First Search
