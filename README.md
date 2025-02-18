@@ -42,6 +42,7 @@ Leetcode problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ravicmi/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/ravicmi/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/ravicmi/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ravicmi/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Stack
@@ -67,6 +68,7 @@ Leetcode problems
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ravicmi/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/ravicmi/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/ravicmi/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/ravicmi/LeetCode/tree/master/0020-valid-parentheses) |
 | [0127-word-ladder](https://github.com/ravicmi/LeetCode/tree/master/0127-word-ladder) |
 ## Breadth-First Search
@@ -108,4 +110,8 @@ Leetcode problems
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ravicmi/LeetCode/tree/master/0037-sudoku-solver) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/ravicmi/LeetCode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
