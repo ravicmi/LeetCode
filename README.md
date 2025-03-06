@@ -59,6 +59,7 @@ Leetcode problems
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ravicmi/LeetCode/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/ravicmi/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/ravicmi/LeetCode/tree/master/0041-first-missing-positive) |
 | [0127-word-ladder](https://github.com/ravicmi/LeetCode/tree/master/0127-word-ladder) |
@@ -69,6 +70,7 @@ Leetcode problems
 | [0005-longest-palindromic-substring](https://github.com/ravicmi/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/ravicmi/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/ravicmi/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/ravicmi/LeetCode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/ravicmi/LeetCode/tree/master/0020-valid-parentheses) |
 | [0127-word-ladder](https://github.com/ravicmi/LeetCode/tree/master/0127-word-ladder) |
 ## Breadth-First Search
@@ -101,6 +103,7 @@ Leetcode problems
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ravicmi/LeetCode/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/ravicmi/LeetCode/tree/master/0012-integer-to-roman) |
 | [0149-max-points-on-a-line](https://github.com/ravicmi/LeetCode/tree/master/0149-max-points-on-a-line) |
 ## Geometry
 |  |
