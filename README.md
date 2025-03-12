@@ -14,6 +14,7 @@ Leetcode problems
 | [0042-trapping-rain-water](https://github.com/ravicmi/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ravicmi/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0149-max-points-on-a-line](https://github.com/ravicmi/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ravicmi/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ravicmi/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Binary Search
 |  |
@@ -23,6 +24,7 @@ Leetcode problems
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ravicmi/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ravicmi/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +40,7 @@ Leetcode problems
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ravicmi/LeetCode/tree/master/0015-3sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ravicmi/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -119,4 +122,12 @@ Leetcode problems
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ravicmi/LeetCode/tree/master/0010-regular-expression-matching) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ravicmi/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ravicmi/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
