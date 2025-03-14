@@ -32,6 +32,7 @@ Leetcode problems
 | [0011-container-with-most-water](https://github.com/ravicmi/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ravicmi/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/ravicmi/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/ravicmi/LeetCode/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
@@ -76,6 +77,7 @@ Leetcode problems
 | [0010-regular-expression-matching](https://github.com/ravicmi/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/ravicmi/LeetCode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/ravicmi/LeetCode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/ravicmi/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/ravicmi/LeetCode/tree/master/0127-word-ladder) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/ravicmi/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Breadth-First Search
