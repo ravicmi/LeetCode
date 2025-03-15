@@ -96,6 +96,7 @@ Leetcode problems
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ravicmi/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ravicmi/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0975-range-sum-of-bst](https://github.com/ravicmi/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Graph
 |  |
 | ------- |
@@ -145,10 +146,12 @@ Leetcode problems
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ravicmi/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/ravicmi/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ravicmi/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/ravicmi/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -157,4 +160,8 @@ Leetcode problems
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ravicmi/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/ravicmi/LeetCode/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
