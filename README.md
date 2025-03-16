@@ -17,6 +17,7 @@ Leetcode problems
 | [0215-kth-largest-element-in-an-array](https://github.com/ravicmi/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ravicmi/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/ravicmi/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/ravicmi/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ravicmi/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Binary Search
 |  |
@@ -29,6 +30,7 @@ Leetcode problems
 | [0023-merge-k-sorted-lists](https://github.com/ravicmi/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ravicmi/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ravicmi/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/ravicmi/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +49,7 @@ Leetcode problems
 | [0015-3sum](https://github.com/ravicmi/LeetCode/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ravicmi/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ravicmi/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/ravicmi/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -126,10 +129,12 @@ Leetcode problems
 | [0007-reverse-integer](https://github.com/ravicmi/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/ravicmi/LeetCode/tree/master/0012-integer-to-roman) |
 | [0149-max-points-on-a-line](https://github.com/ravicmi/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [1014-k-closest-points-to-origin](https://github.com/ravicmi/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/ravicmi/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [1014-k-closest-points-to-origin](https://github.com/ravicmi/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Backtracking
 |  |
 | ------- |
@@ -144,11 +149,13 @@ Leetcode problems
 | [0023-merge-k-sorted-lists](https://github.com/ravicmi/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ravicmi/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ravicmi/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/ravicmi/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ravicmi/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ravicmi/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/ravicmi/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Tree
 |  |
 | ------- |
