@@ -17,6 +17,7 @@ Leetcode problems
 | [0215-kth-largest-element-in-an-array](https://github.com/ravicmi/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ravicmi/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/ravicmi/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/ravicmi/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -93,6 +94,7 @@ Leetcode problems
 | ------- |
 | [0127-word-ladder](https://github.com/ravicmi/LeetCode/tree/master/0127-word-ladder) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ravicmi/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/ravicmi/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -116,6 +118,7 @@ Leetcode problems
 | ------- |
 | [0037-sudoku-solver](https://github.com/ravicmi/LeetCode/tree/master/0037-sudoku-solver) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ravicmi/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/ravicmi/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Math
 |  |
 | ------- |
