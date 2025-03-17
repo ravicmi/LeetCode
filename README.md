@@ -18,6 +18,7 @@ Leetcode problems
 | [0239-sliding-window-maximum](https://github.com/ravicmi/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ravicmi/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/ravicmi/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0854-making-a-large-island](https://github.com/ravicmi/LeetCode/tree/master/0854-making-a-large-island) |
 | [1014-k-closest-points-to-origin](https://github.com/ravicmi/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ravicmi/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Binary Search
@@ -98,6 +99,7 @@ Leetcode problems
 | ------- |
 | [0127-word-ladder](https://github.com/ravicmi/LeetCode/tree/master/0127-word-ladder) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ravicmi/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0854-making-a-large-island](https://github.com/ravicmi/LeetCode/tree/master/0854-making-a-large-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ravicmi/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Depth-First Search
 |  |
@@ -106,6 +108,7 @@ Leetcode problems
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ravicmi/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ravicmi/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0543-diameter-of-binary-tree](https://github.com/ravicmi/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0854-making-a-large-island](https://github.com/ravicmi/LeetCode/tree/master/0854-making-a-large-island) |
 | [0975-range-sum-of-bst](https://github.com/ravicmi/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Graph
 |  |
@@ -124,6 +127,7 @@ Leetcode problems
 | ------- |
 | [0037-sudoku-solver](https://github.com/ravicmi/LeetCode/tree/master/0037-sudoku-solver) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ravicmi/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0854-making-a-large-island](https://github.com/ravicmi/LeetCode/tree/master/0854-making-a-large-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ravicmi/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Math
 |  |
@@ -205,4 +209,8 @@ Leetcode problems
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ravicmi/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Union Find
+|  |
+| ------- |
+| [0854-making-a-large-island](https://github.com/ravicmi/LeetCode/tree/master/0854-making-a-large-island) |
 <!---LeetCode Topics End-->
