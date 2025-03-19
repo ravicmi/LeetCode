@@ -9,6 +9,7 @@ Leetcode problems
 | [0004-median-of-two-sorted-arrays](https://github.com/ravicmi/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ravicmi/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ravicmi/LeetCode/tree/master/0015-3sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ravicmi/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/ravicmi/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/ravicmi/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ravicmi/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -26,6 +27,7 @@ Leetcode problems
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ravicmi/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ravicmi/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [1646-kth-missing-positive-number](https://github.com/ravicmi/LeetCode/tree/master/1646-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
