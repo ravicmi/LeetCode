@@ -1,22 +1,30 @@
-from functools import lru_cache
-
 class Solution:
-    def longestIncreasingPath(self, matrix):
-        if not matrix: return 0
-        m, n = len(matrix), len(matrix[0])
+    def longestIncreasingPath(self, matrix: List[List[int]]) -> int:
+        delta = [(-1,0), (1,0), (0,1), (0,-1)]
+        max_dict = dict()
+        m = len(matrix)
+        n = len(matrix[0])
+        # global global_max
+        global_max = 0 
+        def max_path(i,j):
+            nonlocal global_max
+            if (i,j) in max_dict:
+                return max_dict[(i,j)]
+            neigh = [(i+di, j+dj) for di,dj in delta if 0<= i+di<= m-1 and 0<=j+dj<=n-1 and matrix[i+di][j+dj]>matrix[i][j]]
+            max_local = 0 
+            for ni,nj in neigh:
+                n_path_len = max_path(ni, nj)
+                if n_path_len>max_local:
+                    max_local = n_path_len
+            max_local += 1
+            max_dict[(i,j)] = max_local
+            if max_local > global_max:
+                global_max = max_local
+            return max_local
         
-        dict_dfs = {(i,j): -1 for i in range(m) for j in range(n)}
 
-        def dfs(i, j):
-            if dict_dfs[(i,j)]  != -1 :
-                return dict_dfs[(i,j)]
-            directions = [(0,1), (1,0), (0,-1), (-1,0)]  # Right, Down, Left, Up
-            max_path = 1
-            for dx, dy in directions:
-                ni, nj = i + dx, j + dy
-                if 0 <= ni < m and 0 <= nj < n and matrix[ni][nj] > matrix[i][j]:
-                    max_path = max(max_path, 1 + dfs(ni, nj))
-            dict_dfs[(i,j)] = max_path
-            return max_path
-
-        return max(dfs(i, j) for i in range(m) for j in range(n))
+        for i in range(m):
+            for j in range(n):
+                if (i,j) not in max_dict:
+                    max_path(i,j)
+        return global_max
