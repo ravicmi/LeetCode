@@ -45,6 +45,7 @@ Leetcode problems
 | [0015-3sum](https://github.com/ravicmi/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/ravicmi/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/ravicmi/LeetCode/tree/master/0125-valid-palindrome) |
+| [0295-find-median-from-data-stream](https://github.com/ravicmi/LeetCode/tree/master/0295-find-median-from-data-stream) |
 ## Greedy
 |  |
 | ------- |
@@ -54,6 +55,7 @@ Leetcode problems
 | ------- |
 | [0015-3sum](https://github.com/ravicmi/LeetCode/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ravicmi/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/ravicmi/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ravicmi/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/ravicmi/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Dynamic Programming
@@ -159,6 +161,7 @@ Leetcode problems
 | [0023-merge-k-sorted-lists](https://github.com/ravicmi/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ravicmi/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ravicmi/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/ravicmi/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ravicmi/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/ravicmi/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
@@ -221,4 +224,12 @@ Leetcode problems
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/ravicmi/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/ravicmi/LeetCode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/ravicmi/LeetCode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
