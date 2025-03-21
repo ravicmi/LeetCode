@@ -20,6 +20,7 @@ Leetcode problems
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ravicmi/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/ravicmi/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ravicmi/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ravicmi/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0854-making-a-large-island](https://github.com/ravicmi/LeetCode/tree/master/0854-making-a-large-island) |
 | [1014-k-closest-points-to-origin](https://github.com/ravicmi/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ravicmi/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -89,6 +90,7 @@ Leetcode problems
 | [0149-max-points-on-a-line](https://github.com/ravicmi/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0347-top-k-frequent-elements](https://github.com/ravicmi/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ravicmi/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ravicmi/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## String
 |  |
 | ------- |
@@ -144,6 +146,7 @@ Leetcode problems
 | [0012-integer-to-roman](https://github.com/ravicmi/LeetCode/tree/master/0012-integer-to-roman) |
 | [0149-max-points-on-a-line](https://github.com/ravicmi/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ravicmi/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ravicmi/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [1014-k-closest-points-to-origin](https://github.com/ravicmi/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -232,6 +235,7 @@ Leetcode problems
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/ravicmi/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ravicmi/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ravicmi/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Data Stream
 |  |
 | ------- |
@@ -240,4 +244,5 @@ Leetcode problems
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/ravicmi/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ravicmi/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 <!---LeetCode Topics End-->
