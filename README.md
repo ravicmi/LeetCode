@@ -107,6 +107,7 @@ Leetcode problems
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ravicmi/LeetCode/tree/master/0100-same-tree) |
 | [0127-word-ladder](https://github.com/ravicmi/LeetCode/tree/master/0127-word-ladder) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ravicmi/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0854-making-a-large-island](https://github.com/ravicmi/LeetCode/tree/master/0854-making-a-large-island) |
@@ -114,6 +115,7 @@ Leetcode problems
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ravicmi/LeetCode/tree/master/0100-same-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ravicmi/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ravicmi/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ravicmi/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -179,6 +181,7 @@ Leetcode problems
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ravicmi/LeetCode/tree/master/0100-same-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ravicmi/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ravicmi/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ravicmi/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -186,6 +189,7 @@ Leetcode problems
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ravicmi/LeetCode/tree/master/0100-same-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ravicmi/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ravicmi/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ravicmi/LeetCode/tree/master/0543-diameter-of-binary-tree) |
