@@ -104,6 +104,7 @@ Leetcode problems
 | [0071-simplify-path](https://github.com/ravicmi/LeetCode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/ravicmi/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/ravicmi/LeetCode/tree/master/0127-word-ladder) |
+| [0851-goat-latin](https://github.com/ravicmi/LeetCode/tree/master/0851-goat-latin) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/ravicmi/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Breadth-First Search
 |  |
