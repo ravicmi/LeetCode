@@ -31,6 +31,7 @@ Leetcode problems
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ravicmi/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ravicmi/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/ravicmi/LeetCode/tree/master/0069-sqrtx) |
 | [1646-kth-missing-positive-number](https://github.com/ravicmi/LeetCode/tree/master/1646-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
@@ -150,6 +151,7 @@ Leetcode problems
 | ------- |
 | [0007-reverse-integer](https://github.com/ravicmi/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/ravicmi/LeetCode/tree/master/0012-integer-to-roman) |
+| [0069-sqrtx](https://github.com/ravicmi/LeetCode/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/ravicmi/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ravicmi/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ravicmi/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
