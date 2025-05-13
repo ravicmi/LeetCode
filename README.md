@@ -59,6 +59,7 @@ Leetcode problems
 | ------- |
 | [0011-container-with-most-water](https://github.com/ravicmi/LeetCode/tree/master/0011-container-with-most-water) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ravicmi/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/ravicmi/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -67,6 +68,7 @@ Leetcode problems
 | [0295-find-median-from-data-stream](https://github.com/ravicmi/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ravicmi/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/ravicmi/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/ravicmi/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,6 +101,7 @@ Leetcode problems
 | [0380-insert-delete-getrandom-o1](https://github.com/ravicmi/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ravicmi/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ravicmi/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/ravicmi/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## String
 |  |
 | ------- |
@@ -116,6 +119,7 @@ Leetcode problems
 | [0851-goat-latin](https://github.com/ravicmi/LeetCode/tree/master/0851-goat-latin) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/ravicmi/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ravicmi/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/ravicmi/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -219,6 +223,7 @@ Leetcode problems
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ravicmi/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ravicmi/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/ravicmi/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Binary Search Tree
 |  |
 | ------- |
