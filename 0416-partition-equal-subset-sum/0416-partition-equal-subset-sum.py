@@ -10,7 +10,6 @@ class Solution:
             for t in dp:
                 if t+num == target:
                     return True
-                if t+num < target:
-                    next_dp.add(t+num)
+                next_dp.add(t+num)
             dp = next_dp
         return False
