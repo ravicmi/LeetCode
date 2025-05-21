@@ -8,8 +8,8 @@ class Solution:
         for num in nums:
             next_dp = dp.copy()
             for t in dp:
-                # if t+num == target:
-                #     return True
+                if t+num == target:
+                    return True
                 next_dp.add(t+num)
             dp = next_dp
-        return True if target in dp else False
+        return False
