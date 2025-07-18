@@ -126,6 +126,7 @@ Leetcode problems
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/ravicmi/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ravicmi/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/ravicmi/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3931-process-string-with-special-operations-i](https://github.com/ravicmi/LeetCode/tree/master/3931-process-string-with-special-operations-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -282,6 +283,7 @@ Leetcode problems
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/ravicmi/LeetCode/tree/master/0415-add-strings) |
+| [3931-process-string-with-special-operations-i](https://github.com/ravicmi/LeetCode/tree/master/3931-process-string-with-special-operations-i) |
 ## Trie
 |  |
 | ------- |
