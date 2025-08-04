@@ -82,6 +82,7 @@ Leetcode problems
 | [0312-burst-balloons](https://github.com/ravicmi/LeetCode/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ravicmi/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/ravicmi/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0688-knight-probability-in-chessboard](https://github.com/ravicmi/LeetCode/tree/master/0688-knight-probability-in-chessboard) |
 ## Stack
 |  |
 | ------- |
