@@ -18,6 +18,7 @@ Leetcode problems
 | [0063-unique-paths-ii](https://github.com/ravicmi/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ravicmi/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0149-max-points-on-a-line](https://github.com/ravicmi/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0169-majority-element](https://github.com/ravicmi/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ravicmi/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ravicmi/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0312-burst-balloons](https://github.com/ravicmi/LeetCode/tree/master/0312-burst-balloons) |
@@ -43,6 +44,7 @@ Leetcode problems
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ravicmi/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/ravicmi/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/ravicmi/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ravicmi/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ravicmi/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/ravicmi/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -67,6 +69,7 @@ Leetcode problems
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ravicmi/LeetCode/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/ravicmi/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ravicmi/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/ravicmi/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ravicmi/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -104,6 +107,7 @@ Leetcode problems
 | [0041-first-missing-positive](https://github.com/ravicmi/LeetCode/tree/master/0041-first-missing-positive) |
 | [0127-word-ladder](https://github.com/ravicmi/LeetCode/tree/master/0127-word-ladder) |
 | [0149-max-points-on-a-line](https://github.com/ravicmi/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0169-majority-element](https://github.com/ravicmi/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ravicmi/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/ravicmi/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ravicmi/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -232,6 +236,7 @@ Leetcode problems
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ravicmi/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ravicmi/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ravicmi/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/ravicmi/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
