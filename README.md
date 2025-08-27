@@ -104,6 +104,7 @@ Leetcode problems
 | [0041-first-missing-positive](https://github.com/ravicmi/LeetCode/tree/master/0041-first-missing-positive) |
 | [0127-word-ladder](https://github.com/ravicmi/LeetCode/tree/master/0127-word-ladder) |
 | [0149-max-points-on-a-line](https://github.com/ravicmi/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0205-isomorphic-strings](https://github.com/ravicmi/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/ravicmi/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ravicmi/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ravicmi/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -122,6 +123,7 @@ Leetcode problems
 | [0071-simplify-path](https://github.com/ravicmi/LeetCode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/ravicmi/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/ravicmi/LeetCode/tree/master/0127-word-ladder) |
+| [0205-isomorphic-strings](https://github.com/ravicmi/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0415-add-strings](https://github.com/ravicmi/LeetCode/tree/master/0415-add-strings) |
 | [0851-goat-latin](https://github.com/ravicmi/LeetCode/tree/master/0851-goat-latin) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/ravicmi/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
