@@ -12,7 +12,7 @@ class Solution:
                 seen.remove(stack.pop()) 
             stack.append(i)
             seen.add(i)
-            print(index, i, stack)
+            # print(index, i, stack)
         out = ''.join(stack)
         return out
 
