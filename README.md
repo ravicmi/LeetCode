@@ -32,6 +32,7 @@ Leetcode problems
 | [0777-toeplitz-matrix](https://github.com/ravicmi/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0854-making-a-large-island](https://github.com/ravicmi/LeetCode/tree/master/0854-making-a-large-island) |
 | [1014-k-closest-points-to-origin](https://github.com/ravicmi/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1036-rotting-oranges](https://github.com/ravicmi/LeetCode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ravicmi/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/ravicmi/LeetCode/tree/master/1646-kth-missing-positive-number) |
 ## Binary Search
@@ -153,6 +154,7 @@ Leetcode problems
 | [0127-word-ladder](https://github.com/ravicmi/LeetCode/tree/master/0127-word-ladder) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ravicmi/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0854-making-a-large-island](https://github.com/ravicmi/LeetCode/tree/master/0854-making-a-large-island) |
+| [1036-rotting-oranges](https://github.com/ravicmi/LeetCode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ravicmi/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Depth-First Search
 |  |
@@ -184,6 +186,7 @@ Leetcode problems
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ravicmi/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0777-toeplitz-matrix](https://github.com/ravicmi/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0854-making-a-large-island](https://github.com/ravicmi/LeetCode/tree/master/0854-making-a-large-island) |
+| [1036-rotting-oranges](https://github.com/ravicmi/LeetCode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ravicmi/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Math
 |  |
