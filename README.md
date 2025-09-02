@@ -61,6 +61,7 @@ Leetcode problems
 | [0027-remove-element](https://github.com/ravicmi/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/ravicmi/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/ravicmi/LeetCode/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/ravicmi/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/ravicmi/LeetCode/tree/master/0295-find-median-from-data-stream) |
 ## Greedy
 |  |
@@ -139,6 +140,7 @@ Leetcode problems
 | [0071-simplify-path](https://github.com/ravicmi/LeetCode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/ravicmi/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/ravicmi/LeetCode/tree/master/0127-word-ladder) |
+| [0151-reverse-words-in-a-string](https://github.com/ravicmi/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ravicmi/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0316-remove-duplicate-letters](https://github.com/ravicmi/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0415-add-strings](https://github.com/ravicmi/LeetCode/tree/master/0415-add-strings) |
