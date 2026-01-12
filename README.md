@@ -102,6 +102,7 @@ Leetcode problems
 | [0071-simplify-path](https://github.com/ravicmi/LeetCode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ravicmi/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/ravicmi/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ravicmi/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/ravicmi/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
 |  |
@@ -147,6 +148,7 @@ Leetcode problems
 | [0316-remove-duplicate-letters](https://github.com/ravicmi/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0415-add-strings](https://github.com/ravicmi/LeetCode/tree/master/0415-add-strings) |
 | [0851-goat-latin](https://github.com/ravicmi/LeetCode/tree/master/0851-goat-latin) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ravicmi/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/ravicmi/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ravicmi/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/ravicmi/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
