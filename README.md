@@ -21,6 +21,7 @@ Leetcode problems
 | [0084-largest-rectangle-in-histogram](https://github.com/ravicmi/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0149-max-points-on-a-line](https://github.com/ravicmi/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/ravicmi/LeetCode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/ravicmi/LeetCode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/ravicmi/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ravicmi/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ravicmi/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -159,6 +160,7 @@ Leetcode problems
 | ------- |
 | [0100-same-tree](https://github.com/ravicmi/LeetCode/tree/master/0100-same-tree) |
 | [0127-word-ladder](https://github.com/ravicmi/LeetCode/tree/master/0127-word-ladder) |
+| [0200-number-of-islands](https://github.com/ravicmi/LeetCode/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ravicmi/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0854-making-a-large-island](https://github.com/ravicmi/LeetCode/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/ravicmi/LeetCode/tree/master/1036-rotting-oranges) |
@@ -169,6 +171,7 @@ Leetcode problems
 | [0100-same-tree](https://github.com/ravicmi/LeetCode/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ravicmi/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ravicmi/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0200-number-of-islands](https://github.com/ravicmi/LeetCode/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ravicmi/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ravicmi/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0543-diameter-of-binary-tree](https://github.com/ravicmi/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -191,6 +194,7 @@ Leetcode problems
 | ------- |
 | [0037-sudoku-solver](https://github.com/ravicmi/LeetCode/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/ravicmi/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0200-number-of-islands](https://github.com/ravicmi/LeetCode/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ravicmi/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0777-toeplitz-matrix](https://github.com/ravicmi/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0854-making-a-large-island](https://github.com/ravicmi/LeetCode/tree/master/0854-making-a-large-island) |
@@ -323,4 +327,8 @@ Leetcode problems
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ravicmi/LeetCode/tree/master/0014-longest-common-prefix) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ravicmi/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
