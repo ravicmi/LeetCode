@@ -36,6 +36,7 @@ Leetcode problems
 | [1014-k-closest-points-to-origin](https://github.com/ravicmi/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/ravicmi/LeetCode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ravicmi/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1514-path-with-maximum-probability](https://github.com/ravicmi/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1646-kth-missing-positive-number](https://github.com/ravicmi/LeetCode/tree/master/1646-kth-missing-positive-number) |
 ## Binary Search
 |  |
@@ -233,6 +234,7 @@ Leetcode problems
 | [0295-find-median-from-data-stream](https://github.com/ravicmi/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ravicmi/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/ravicmi/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1514-path-with-maximum-probability](https://github.com/ravicmi/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ravicmi/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 ## Quickselect
 |  |
@@ -331,4 +333,12 @@ Leetcode problems
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ravicmi/LeetCode/tree/master/0200-number-of-islands) |
+## Graph Theory
+|  |
+| ------- |
+| [1514-path-with-maximum-probability](https://github.com/ravicmi/LeetCode/tree/master/1514-path-with-maximum-probability) |
+## Shortest Path
+|  |
+| ------- |
+| [1514-path-with-maximum-probability](https://github.com/ravicmi/LeetCode/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
