@@ -105,6 +105,7 @@ Leetcode problems
 | [0084-largest-rectangle-in-histogram](https://github.com/ravicmi/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ravicmi/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/ravicmi/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0895-maximum-frequency-stack](https://github.com/ravicmi/LeetCode/tree/master/0895-maximum-frequency-stack) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ravicmi/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/ravicmi/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
@@ -129,6 +130,7 @@ Leetcode problems
 | [0347-top-k-frequent-elements](https://github.com/ravicmi/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ravicmi/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ravicmi/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0895-maximum-frequency-stack](https://github.com/ravicmi/LeetCode/tree/master/0895-maximum-frequency-stack) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ravicmi/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/ravicmi/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## String
@@ -311,6 +313,7 @@ Leetcode problems
 | [0295-find-median-from-data-stream](https://github.com/ravicmi/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ravicmi/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ravicmi/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0895-maximum-frequency-stack](https://github.com/ravicmi/LeetCode/tree/master/0895-maximum-frequency-stack) |
 ## Data Stream
 |  |
 | ------- |
@@ -341,4 +344,8 @@ Leetcode problems
 |  |
 | ------- |
 | [1514-path-with-maximum-probability](https://github.com/ravicmi/LeetCode/tree/master/1514-path-with-maximum-probability) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/ravicmi/LeetCode/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
