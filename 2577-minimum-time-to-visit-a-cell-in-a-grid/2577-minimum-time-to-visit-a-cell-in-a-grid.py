@@ -7,21 +7,27 @@ class Solution:
         m = len(grid)
         n = len(grid[0])
         visited = dict()
-        # visited[(0,0)] = 0 
+        min_times = [[float('inf')]*n for _ in range(m)]
+        min_times[0][0] = 0
         heap = []
         heapq.heappush(heap, (0, 0, 0))
         while heap:
             t, r, c = heapq.heappop(heap)
+            if r==m-1 and c==n-1:
+                return t
             if (r,c) not in visited : 
                 visited[(r,c)] = t
                 for dr, dc in dir: 
-                    if (r+dr >=0) and (r+dr <m )and (c+dc >= 0) and (c+dc <n) and (r+dr, c+dc) not in visited: 
-                        if grid[r+dr][c+dc] <= t+1:
-                            heapq.heappush(heap, (t+1, r+dr , c+dc))
-                        elif (grid[r+dr][c+dc] - t) % 2 != 0 : 
-                            heapq.heappush(heap, (grid[r+dr][c+dc], r+dr , c+dc))
+                    nr , nc = r+dr, c+dc
+                    if (nr>=0) and (nr<m )and (nc >= 0) and (nc <n) and (nr, nc) not in visited: 
+                        if grid[nr][nc] <= t+1:
+                            new_time = t+1
+                        elif (grid[nr][nc] - t) % 2 != 0 : 
+                            new_time = grid[nr][nc]
                         else: 
-                            heapq.heappush(heap, (grid[r+dr][c+dc]+1, r+dr , c+dc))
+                            new_time = grid[nr][nc] +1
+                        if new_time < min_times[nr][nc]:
+                            heapq.heappush(heap, (new_time, nr, nc))
 
         return visited[(m-1, n-1)]
 
