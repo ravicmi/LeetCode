@@ -32,6 +32,7 @@ Leetcode problems
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ravicmi/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0416-partition-equal-subset-sum](https://github.com/ravicmi/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0777-toeplitz-matrix](https://github.com/ravicmi/LeetCode/tree/master/0777-toeplitz-matrix) |
+| [0815-bus-routes](https://github.com/ravicmi/LeetCode/tree/master/0815-bus-routes) |
 | [0854-making-a-large-island](https://github.com/ravicmi/LeetCode/tree/master/0854-making-a-large-island) |
 | [1014-k-closest-points-to-origin](https://github.com/ravicmi/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/ravicmi/LeetCode/tree/master/1036-rotting-oranges) |
@@ -130,6 +131,7 @@ Leetcode problems
 | [0347-top-k-frequent-elements](https://github.com/ravicmi/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ravicmi/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ravicmi/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0815-bus-routes](https://github.com/ravicmi/LeetCode/tree/master/0815-bus-routes) |
 | [0895-maximum-frequency-stack](https://github.com/ravicmi/LeetCode/tree/master/0895-maximum-frequency-stack) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ravicmi/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/ravicmi/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -165,6 +167,7 @@ Leetcode problems
 | [0127-word-ladder](https://github.com/ravicmi/LeetCode/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/ravicmi/LeetCode/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ravicmi/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0815-bus-routes](https://github.com/ravicmi/LeetCode/tree/master/0815-bus-routes) |
 | [0854-making-a-large-island](https://github.com/ravicmi/LeetCode/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/ravicmi/LeetCode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ravicmi/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
