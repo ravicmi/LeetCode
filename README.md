@@ -39,6 +39,7 @@ Leetcode problems
 | [1171-shortest-path-in-binary-matrix](https://github.com/ravicmi/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1514-path-with-maximum-probability](https://github.com/ravicmi/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1646-kth-missing-positive-number](https://github.com/ravicmi/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ravicmi/LeetCode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -171,6 +172,7 @@ Leetcode problems
 | [0854-making-a-large-island](https://github.com/ravicmi/LeetCode/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/ravicmi/LeetCode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ravicmi/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ravicmi/LeetCode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -206,6 +208,7 @@ Leetcode problems
 | [0854-making-a-large-island](https://github.com/ravicmi/LeetCode/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/ravicmi/LeetCode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ravicmi/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ravicmi/LeetCode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -241,6 +244,7 @@ Leetcode problems
 | [1014-k-closest-points-to-origin](https://github.com/ravicmi/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1514-path-with-maximum-probability](https://github.com/ravicmi/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ravicmi/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ravicmi/LeetCode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Quickselect
 |  |
 | ------- |
@@ -343,10 +347,12 @@ Leetcode problems
 |  |
 | ------- |
 | [1514-path-with-maximum-probability](https://github.com/ravicmi/LeetCode/tree/master/1514-path-with-maximum-probability) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ravicmi/LeetCode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
 | [1514-path-with-maximum-probability](https://github.com/ravicmi/LeetCode/tree/master/1514-path-with-maximum-probability) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ravicmi/LeetCode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Ordered Set
 |  |
 | ------- |
